@@ -17,8 +17,10 @@ console.log(para.setAttribute("class","newClass"));
 
 let div = document.querySelector("div");
 
-//to change style using js
+/*to change style using js
 div.style.backgroundColor = "green";
 div.style.backgroundColor = "purple";
 
 div.innerText="Hello!";
+*/
+
